@@ -6,6 +6,7 @@ class Person
     if attributes.each {|key, value| self.send(("#{key}="), value)}
 end
 end
+end
 
 #if attributes
       #attributes.each do |k,v|

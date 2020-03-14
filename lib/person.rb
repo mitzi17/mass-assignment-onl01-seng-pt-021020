@@ -9,6 +9,3 @@ class Person
   end
 end
 
-#if attributes
-      #attributes.each do |k,v|
-        #self.send("#{k}=", v)
